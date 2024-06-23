@@ -11,29 +11,29 @@ http://1.70.33.224:8082/udp/239.1.1.7:8007
 http://123.117.34.231:88/rtp/239.3.1.129:8008
 #EXTINF:-1 ,CCTV-1 综合
 http://183.149.51.153:8878/rtp/233.50.201.118:5140
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://27.190.72.107:7000/rtp/239.254.200.158:6000
-#EXTINF:-1 ,CCTV-2 财经
+#EXTINF:-1,CCTV-2财经
 http://1.70.33.224:8082/udp/239.1.1.8:8008
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://gzly.hkychina.com:6001/rtp/239.252.219.252:5140?Cf=cfss.cc
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://123.117.34.231:88/rtp/239.3.1.172:8001
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://1.70.33.224:8082/udp/239.1.1.9:8009
-#EXTINF:-1 ,CCTV-3 综艺
+#EXTINF:-1,CCTV-3综艺
 http://183.191.233.139:8001/rtp/226.0.2.208:9576
 #EXTINF:-1 ,CCTV-3 综艺
 http://183.149.51.153:8878/rtp/233.50.201.196:5140
